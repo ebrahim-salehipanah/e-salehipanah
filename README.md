@@ -23,7 +23,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-salehipanah&layout=compact" />
 
-<div align="right" style="text-align:center;">
+<div align="right" style="text-align:left;">
 <i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/ebrahim-salehipanah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
